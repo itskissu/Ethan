@@ -102,7 +102,7 @@ const Wallet = () => {
                   </h3>
                   <p className="pb-6 text-[#c3bfd2] text-[14px] text-center">
 My name is「 ETHAN KELIN 」 and I developed this bot app. If you need to purchase the source code for
-this project or you want to create similar projects like this, you can message me directly on telegram via <a href="https://t.me/MR_ETHAN_KELIN" className="text-[#ffba4c]">「 ETHAN KELIN 」</a>
+this project or you want to create similar projects like this, you can message me directly on telegram via <a href="https://t.me/Cryptoxethan" className="text-[#ffba4c]">「 ETHAN KELIN 」</a>
                   </p>
 
  
