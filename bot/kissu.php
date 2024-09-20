@@ -8,10 +8,10 @@ Developer : @LampStack
 ini_set("log_errors", "off");
 error_reporting(0);
 
-$apiKey = '6738694480:AAEUvFhBy7SrHOemJuvMUTbm1nTw1_Uc7Xk';
+$apiKey = '7920354517:AAE54Hwan7jN2ed7LQ2bOMXB5QCofMOtdyY';
 $update = json_decode(file_get_contents('php://input'));
 $username = isset($update->message->from->first_name) ? $update->message->from->first_name : 'User'; // Get the user's first name
-$games_url = 'https://gojotap.netlify.app/';
+$games_url = 'https://ethantg.netlify.app/';
 $community = 'https://t.me/kissuxbots';
 
 function LampStack($method, $datas = []) {
